@@ -1,0 +1,29 @@
+# WeMake, Corp.
+
+> WeMake, Corp. is a technology-oriented strategic consulting firm based in San Diego, California. We bring deep know-how and a proven track record across biotherapeutics, advanced propulsion technology, AI application & integration, advanced robotics, neuromodulation, and regenerative therapies.
+
+WeMake partners with enterprises, research institutions, and innovators to translate complex science and engineering into practical, future-proof strategies. Our consultants combine academic rigor, industry experience, and hands-on technology integration to deliver end-to-end advisory services—from feasibility and regulatory strategy through deployment and scale.
+
+## Core pages
+
+- [Home — Strategic Technology Consulting](https://wemake.cloud/): Company overview, six consulting domains, technology solutions, and contact information.
+- [About Us](https://wemake.cloud/about.html): Our mission, team expertise, and strategic consulting approach.
+- [Consulting Services](https://wemake.cloud/service.html): Detailed descriptions of biotherapeutics, propulsion, AI, robotics, neuromodulation, and regenerative therapy consulting.
+- [Technology Solutions & Partnerships](https://wemake.cloud/products.html): Deployed solutions including the A.I. Barista Robot and Super Nova MSCs regenerative therapy partnership.
+- Email inquiries: contact@wemake.cloud — San Diego office at 7220 Trade St, San Diego, CA 92121.
+
+## Specialized resources
+
+- [Clinical Research & CRO Consulting](https://wemake.cloud/cro.html): Full-service clinical research organization (CRO) and site management capabilities for biotherapeutics and device trials.
+- [A.I. Barista Robot — Product Overview](https://wemake.cloud/robotdeck.html): Advanced robotics solution for commercial deployment.
+- [Super Nova MSCs — Partnership Overview](https://wemake.cloud/mscdeck.html): Regenerative therapy technology partnership materials.
+
+## Legal
+
+- [Privacy Policy](https://wemake.cloud/Privacy.html): How WeMake collects, uses, and protects personal information.
+- [Terms of Use](https://wemake.cloud/ToU.html): Website terms, disclaimers, and governing law.
+
+## Contact
+
+- General: contact@wemake.cloud
+- Address: 7220 Trade St, San Diego, CA 92121, USA
