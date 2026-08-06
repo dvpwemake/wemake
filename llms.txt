@@ -1,27 +1,47 @@
 # WeMake, Corp.
 
-> WeMake, Corp. is a technology-oriented strategic consulting firm based in San Diego, California. We bring deep know-how and a proven track record across biotherapeutics, advanced propulsion technology, AI application & integration, advanced robotics, neuromodulation, and regenerative therapies.
+> Slogan: Define techno-human convergence.
+>
+> WeMake, Corp. is an innovative technology company engaged with the convergence of carbon-based and silicon-based life, and of human and artificial intelligence. Headquartered in San Diego, California.
 
-WeMake partners with enterprises, research institutions, and innovators to translate complex science and engineering into practical, future-proof strategies. Our consultants combine academic rigor, industry experience, and hands-on technology integration to deliver end-to-end advisory services—from feasibility and regulatory strategy through deployment and scale.
+## Mission
+
+To design, develop, and deploy technologies at the meeting point of living systems and computational systems, so that human intelligence and artificial intelligence strengthen each other for healthier, more capable, more joyful lives.
+
+## Vision
+
+A future in which carbon and silicon, mind and machine, operate as a continuum: biology informed by data, machines guided by human judgment, and innovation accountable to people, communities, and the fun that makes us human.
+
+## Thesis
+
+- **Techno-human convergence:** Technology and human life redesigned to work as partners.
+- **Carbon · Silicon:** Living systems meet engineered systems.
+- **Human · AI:** Judgment meets machine capability.
 
 ## Core pages
 
-- [Home — Strategic Technology Consulting](https://wemake.cloud/): Company overview, six consulting domains, technology solutions, and contact information.
-- [About Us](https://wemake.cloud/about.html): Our mission, team expertise, and strategic consulting approach.
-- [Consulting Services](https://wemake.cloud/service.html): Detailed descriptions of biotherapeutics, propulsion, AI, robotics, neuromodulation, and regenerative therapy consulting.
-- [Technology Solutions & Partnerships](https://wemake.cloud/products.html): Deployed solutions including the A.I. Barista Robot and Super Nova MSCs regenerative therapy partnership.
-- Email inquiries: contact@wemake.cloud — San Diego office at 7220 Trade St, San Diego, CA 92121.
+- [Home](https://wemake.cloud/): Thesis, capabilities, products.
+- [About](https://wemake.cloud/about.html): Mission, vision, principles.
+- [Capabilities](https://wemake.cloud/service.html): Biotherapeutics, regenerative therapies, neuromodulation, AI, advanced propulsion.
+- [Products & Platforms](https://wemake.cloud/products.html): Apps, American Smile, CoC, Super Nova MSCs.
+- Email: contact@wemake.cloud — 7220 Trade St, San Diego, CA 92121.
+
+## Products (external)
+
+- [Memory Enhancement](https://apps.apple.com/us/app/memory-enhancement/id6762328155)
+- [MoCA Assessment](https://apps.apple.com/us/app/moca-assessment/id6756805471)
+- [Motor Function](https://apps.apple.com/us/app/motor-function/id6763461844)
+- [American Smile](https://www.tiktok.com/@americansmile_editorial) — cultural tour; also [X @AmericanSmiwyd](https://x.com/AmericanSmiwyd)
+- [Chronicle of Convergence](https://chronicleofconvergence.com/)
 
 ## Specialized resources
 
-- [Clinical Research & CRO Consulting](https://wemake.cloud/cro.html): Full-service clinical research organization (CRO) and site management capabilities for biotherapeutics and device trials.
-- [A.I. Barista Robot — Product Overview](https://wemake.cloud/robotdeck.html): Advanced robotics solution for commercial deployment.
-- [Super Nova MSCs — Partnership Overview](https://wemake.cloud/mscdeck.html): Regenerative therapy technology partnership materials.
+- [CRO & Clinical](https://wemake.cloud/cro.html)
 
 ## Legal
 
-- [Privacy Policy](https://wemake.cloud/Privacy.html): How WeMake collects, uses, and protects personal information.
-- [Terms of Use](https://wemake.cloud/ToU.html): Website terms, disclaimers, and governing law.
+- [Privacy Policy](https://wemake.cloud/Privacy.html)
+- [Terms of Use](https://wemake.cloud/ToU.html)
 
 ## Contact
 

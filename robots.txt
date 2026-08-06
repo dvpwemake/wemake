@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wemake.cloud/sitemap.xml
