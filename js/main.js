@@ -120,7 +120,6 @@
   (function loadCocHero() {
     var imgs = document.querySelectorAll("[data-coc-hero]");
     if (!imgs.length) return;
-    var credits = document.querySelectorAll("[data-coc-hero-credit]");
     fetch("https://chronicleofconvergence.com/data/editorial.json", {
       cache: "no-cache",
       mode: "cors"
@@ -134,16 +133,9 @@
         var url = pub && pub.heroImage;
         if (!url) return;
         var alt = (pub.title ? pub.title + ". " : "") + "Chronicle of Convergence";
-        var credit = "Photo";
-        if (pub.heroSource) credit += ": " + pub.heroSource;
-        else if (pub.heroCredit) credit += ": " + pub.heroCredit;
-        credit += " · chronicleofconvergence.com";
         Array.prototype.forEach.call(imgs, function (img) {
           img.src = url;
           img.alt = alt;
-        });
-        Array.prototype.forEach.call(credits, function (el) {
-          el.textContent = credit;
         });
       })
       .catch(function () {

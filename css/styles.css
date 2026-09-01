@@ -866,13 +866,6 @@ p + p { margin-top: 1rem; }
 
 .product-card .card-body { flex: 1; }
 
-.card-cite {
-  font-size: 0.72rem;
-  color: var(--muted);
-  margin: -0.35rem 0 0.65rem;
-  line-height: 1.4;
-}
-
 .product-meta {
   font-size: 0.72rem;
   font-weight: 700;
